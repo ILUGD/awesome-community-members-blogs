@@ -10,3 +10,4 @@
 | Aakash Mallik     | [https://medium.com/heuristics](https://medium.com/heuristics)       |                                                                                            | Collaborative blogs on Coding, Travel, Life lessons and creative writing.         |                                   | humble_D       |
 | Vipul Gupta       | [http://mixstersite.wordpress.com/](http://mixstersite.wordpress.com/)   | [https://mixstersite.wordpress.com/feed/](https://mixstersite.wordpress.com/feed/)         | Experiences, remote work, open-source, documentation, GSoC.                       |                                   | vipulgupta2048 |
 | Kuntal Majumder| [https://www.hellozee.dev/](https://www.hellozee.dev/)| [https://www.hellozee.dev/index.xml](https://www.hellozee.dev/index.xml)| Experiences, C++, Krita. ||hellozee|
+| Arjoonn| <https://www.arjoonn.com/blog.html>| <https://www.arjoonn.com/feed.xml>| Experiences, Python, Software, poems. ||arjoonn|
