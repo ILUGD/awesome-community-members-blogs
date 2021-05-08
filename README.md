@@ -13,3 +13,4 @@
 | Arjoonn| <https://www.arjoonn.com/blog.html>| <https://www.arjoonn.com/feed.xml>| Experiences, Python, Software, poems. ||arjoonn|
 | Divya Goswami | [rachejazz.me](https://rachejazz.me/blogs.html) | | Django, Flask, React, C, Git, Bash, vim ,x86, Linux, Cloud, Docker | | anonbiblio
 | Hritik Vijay | [m47r1x.github.io](https://m47r1x.github.io) | [https://m47r1x.github.io/index.xml](https://m47r1x.github.io/index.xml) | Linux, C, Bash, Embedded Systems, Security || Voldem00rt |
+| Kishore Ganesh | [kishoreganesh.com](https://kishoreganesh.com) | [https://kishoreganesh.com/index.xml](https://kishoreganesh.com/index.xml) | Emulators, Rust, Path Tracing, Programming Languages, C++, Research Papers || kishoreganesh |
